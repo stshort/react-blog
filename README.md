@@ -1,25 +1,9 @@
-# ReduxSimpleStarter
+# React Blog - simple blogging application built using React and Redux
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+App built as part of the last project in this online React+Redux course:
+udemy.com/react-redux/learn/v4/overview
 
-###Getting Started###
+Allows for a user to add blog posts, delete posts, and view the list. Uses a simple API for maintaining the application built out from here -
+http://reduxblog.herokuapp.com/api
 
-There are two methods for getting started with this repo.
-
-####Familiar with Git?#####
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-	> git clone git@github.com:StephenGrider/ReduxSimpleStarter.git
-	> cd ReduxSimpleStarter
-	> npm install
-	> npm start
-```
-
-####Not Familiar with Git?#####
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-	> npm install
-	> npm start
-```
+Overall just a fun learning project :)
